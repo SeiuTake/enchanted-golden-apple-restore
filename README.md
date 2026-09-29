@@ -2,6 +2,12 @@
 
 Minecraft **Java 版 26.3**（Wilderness Bound，数据包格式 **121.0**）数据包，纯服务端，客户端不需要装任何东西。
 
+## 下载
+
+- 打包好的数据包（推荐）：
+  [enchanted-golden-apple-restore.zip](https://github.com/SeiuTake/enchanted-golden-apple-restore/releases/latest/download/enchanted-golden-apple-restore.zip)
+- 或者克隆本仓库，把仓库根目录（含 `pack.mcmeta`）当成数据包文件夹直接使用。
+
 ## 它做了什么
 
 1. **恢复附魔金苹果的合成配方**：8 个金块 + 1 个苹果（1.9 之前的老配方，之后被官方移除，一直无法合成）。
