@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "ate_enchanted_golden_apple": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:enchanted_golden_apple"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "title": {
+      "text": "过于强大"
+    },
+    "description": {
+      "text": "吃掉一个附魔金苹果"
+    },
+    "icon": {
+      "id": "minecraft:enchanted_golden_apple"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "ate_enchanted_golden_apple"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  },
+  "sends_telemetry_event": false
+}

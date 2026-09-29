@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "附魔金苹果回归：恢复合成配方，并添加「附魔金苹果」成就（进度）",
+    "pack_format": 121,
+    "min_format": [121, 0],
+    "max_format": 121
+  }
+}
